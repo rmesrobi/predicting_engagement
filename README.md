@@ -8,7 +8,7 @@ Social networks play an increasing role in our daily lives. They have become a p
     <img src="images/louvain_graph.png" width='800'/>
 </p>
 
-A full presentation of this project can be found here.\
+A full presentation of this project can be found here.
 
 The python source code can be found in the src folder.
 
